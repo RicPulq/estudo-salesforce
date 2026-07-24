@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AddPrimaryContact</members>
+        <members>AddPrimaryContactBatch</members>
+        <members>AddPrimaryContactTest</members>
+        <members>AccountContactCountQueueable</members>
+        <members>AccountProcessor</members>
+        <members>AccountProcessorTest</members>
+        <members>AsyncProcessingErrorLogger</members>
+        <members>AsyncProcessingErrorLoggerTest</members>
+        <members>DailyLeadProcessor</members>
+        <members>DailyLeadProcessorTest</members>
+        <members>LeadProcessor</members>
+        <members>LeadProcessorTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account.Number_Of_Contacts__c</members>
+        <members>Async_Processing_Error__c.Error_Message__c</members>
+        <members>Async_Processing_Error__c.Job_Id__c</members>
+        <members>Async_Processing_Error__c.Processor__c</members>
+        <members>Async_Processing_Error__c.Record_Id__c</members>
+        <members>Lead_Processing_Config__mdt.Default_Lead_Source__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Lead_Processing_Config.Default</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>Async_Processing_Error__c</members>
+        <members>Lead_Processing_Config__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <version>67.0</version>
+</Package>

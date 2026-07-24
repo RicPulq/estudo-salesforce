@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gerar Classe Apex"
+  short_description: "Crie Apex seguro com testes"
+  default_prompt: "Use $apex-generator para criar uma classe Apex com testes."

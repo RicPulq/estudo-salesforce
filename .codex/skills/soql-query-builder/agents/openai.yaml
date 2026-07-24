@@ -1,0 +1,4 @@
+interface:
+  display_name: "Montar Consulta SOQL"
+  short_description: "Crie consultas SOQL seguras"
+  default_prompt: "Use $soql-query-builder para montar uma consulta SOQL otimizada."
