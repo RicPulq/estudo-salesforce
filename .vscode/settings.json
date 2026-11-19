@@ -3,7 +3,9 @@
     "**/node_modules": true,
     "**/bower_components": true,
     "**/.sf": true,
-    "**/.sfdx": true
+    "**/.sfdx": true,
+    "**/.codex": true,
+    "**/.agent": true
   },
   "xml.preferences.showSchemaDocumentationType": "none"
 }
